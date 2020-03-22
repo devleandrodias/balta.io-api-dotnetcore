@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\balta.io\\7194 - Criando APIs Data Driven com ASP.NET Core 3 e EF Core 3\\Shop\\Shop.csproj": {}
+    "E:\\balta.io-api-dotnetcore\\Shop.csproj": {}
   },
   "projects": {
-    "E:\\balta.io\\7194 - Criando APIs Data Driven com ASP.NET Core 3 e EF Core 3\\Shop\\Shop.csproj": {
+    "E:\\balta.io-api-dotnetcore\\Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\balta.io\\7194 - Criando APIs Data Driven com ASP.NET Core 3 e EF Core 3\\Shop\\Shop.csproj",
+        "projectUniqueName": "E:\\balta.io-api-dotnetcore\\Shop.csproj",
         "projectName": "Shop",
-        "projectPath": "E:\\balta.io\\7194 - Criando APIs Data Driven com ASP.NET Core 3 e EF Core 3\\Shop\\Shop.csproj",
+        "projectPath": "E:\\balta.io-api-dotnetcore\\Shop.csproj",
         "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-        "outputPath": "E:\\balta.io\\7194 - Criando APIs Data Driven com ASP.NET Core 3 e EF Core 3\\Shop\\obj\\",
+        "outputPath": "E:\\balta.io-api-dotnetcore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config"
