@@ -2,9 +2,9 @@
 
 ### Curso realizado com objetivo de aprimorar os conhecimentos e aprender mais sobre APIs REST
 
-> O que foi abordado neste treinamento
-
 `Desenvolvimento de uma API que faz o controle de carrinho de compras de um e-commerce`
+
+> O que foi abordado neste treinamento
 
 - Criação de API com Asp .Net Core
 - Padrões REST
